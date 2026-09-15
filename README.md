@@ -1,3 +1,4 @@
-# IB-CS-IA
+# IB SL CS IA
 
-SL CS Page hasn't been put up yet
+User: Physics researchers
+Problem: Video analysis of some physics demonstration to gather data about the movement of the object
