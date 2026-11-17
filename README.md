@@ -1,0 +1,1 @@
+I want to make a Transit app that supports fastest route finding, tickets saving in a database, and potentially redistribution of transit routes to increase capacity over certain routes. The problem would be how to manage your transit system as a local council
